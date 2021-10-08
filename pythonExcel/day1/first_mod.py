@@ -1,4 +1,4 @@
 def say():
-    print('is diao')
+    print('say hello')
 
 print('hello')
